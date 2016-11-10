@@ -3,4 +3,4 @@ Information about mars
  - Estimate travel time: not too long
  - May be a bit cold
  - more stuff added
-
+ - it is red

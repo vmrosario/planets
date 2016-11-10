@@ -2,3 +2,5 @@ Information about mars
  - It is closest planet to earth
  - Estimate travel time: not too long
  - May be a bit cold
+ - more stuff added
+
